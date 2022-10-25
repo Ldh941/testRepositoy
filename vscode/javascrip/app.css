@@ -1,0 +1,10 @@
+h1{
+    color: rgb(255, 0, 140);
+}
+
+.btn{
+    padding: 12px;
+    background-color: bisque;
+    cursor: pointer;
+    width: 20px;
+}
